@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=NetC7_1 Pin=L3-1
+Removed Pin From Net: NetName=NetC2_2 Pin=L3-2
+Removed Member From Class: ClassName=Lakota_PCB Member=C8
+Removed Member From Class: ClassName=Lakota_PCB Member=L3
+Added Component: Designator=FL1(SAW_FILTER)
+Added Pin To Net: NetName=NetC7_1 Pin=FL1-1
+Added Pin To Net: NetName=NetC2_2 Pin=FL1-4
+Added Member To Class: ClassName=Lakota_PCB Member=Component FL1 SAW_FILTER

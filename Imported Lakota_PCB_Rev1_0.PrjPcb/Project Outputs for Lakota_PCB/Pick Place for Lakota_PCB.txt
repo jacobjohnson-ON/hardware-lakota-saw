@@ -1,0 +1,35 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+FL1        SAW_FILTER        3226.378mil   3902.067mil   3246.063mil   3902.067mil   3246.063mil   3902.067mil  T        180.00 SAW_FILTER     
+L4         L_0402             3030.61mil    3882.31mil    3030.61mil    3882.31mil    3030.61mil    3902.31mil  T        270.00 INDUCTOR_L_0402_DNI
+L2         L_0402            3331.693mil   3902.559mil   3331.693mil   3902.559mil   3351.693mil   3902.559mil  T        180.00 INDUCTOR_L_0402_0R
+L5         L_0402             2913.61mil    3882.73mil    2913.61mil    3882.73mil    2913.61mil    3902.73mil  T        270.00 INDUCTOR_L_0402_DNI
+L1         L_0402             3423.93mil    3859.53mil    3423.93mil    3859.53mil    3423.93mil    3839.53mil  T         90.00 INDUCTOR_L_0402_5.6NH
+C14        C_0402             3689.55mil    3977.69mil    3689.55mil    3977.69mil    3689.55mil    3997.69mil  T        270.00 CAPACITOR NON-POL_C_0402_DNI
+C7         C_0402            3277.559mil   3882.874mil   3277.559mil   3882.874mil   3277.559mil   3902.874mil  T        270.00 CAPACITOR NON-POL_C_0402_DNI
+C6         C_0402            3385.827mil   3883.858mil   3385.827mil   3883.858mil   3385.827mil   3903.858mil  T        270.00 CAPACITOR NON-POL_C_0402_DNI
+C4         C_0402             2971.79mil    3901.49mil    2971.79mil    3901.49mil    2991.79mil    3901.49mil  T        180.00 CAPACITOR NON-POL_C_0402_0R
+C1         C_0402             3366.27mil    3826.76mil    3366.27mil    3826.76mil    3346.27mil    3826.76mil  T          0.00 CAPACITOR NON-POL_C_0402_100PF
+C10        C_0402             3783.65mil    3779.61mil    3783.65mil    3779.61mil    3803.65mil    3779.61mil  T        180.00 CAPACITOR NON-POL_C_0402_33NF
+C17        C_0402             3386.73mil    3787.98mil    3386.73mil    3787.98mil    3366.73mil    3787.98mil  T          0.00 CAPACITOR NON-POL_C_0402_220NF
+C13        C_0402             3785.09mil    3920.79mil    3785.09mil    3920.79mil    3805.09mil    3920.79mil  T        180.00 CAPACITOR NON-POL_C_0402_DNI
+C9         C_0402             3783.23mil     3818.7mil    3783.23mil     3818.7mil    3803.23mil     3818.7mil  T        180.00 CAPACITOR NON-POL_C_0402_33NF
+C16        C_0402             3649.63mil     3977.9mil    3649.63mil     3977.9mil    3649.63mil     3997.9mil  T        270.00 CAPACITOR NON-POL_C_0402_220NF
+C5         C_0402             3368.56mil     3730.6mil    3368.56mil     3730.6mil    3348.56mil     3730.6mil  T          0.00 CAPACITOR NON-POL_C_0402_10NF
+C12        C_0402             3784.89mil    3959.67mil    3784.89mil    3959.67mil    3804.89mil    3959.67mil  T        180.00 CAPACITOR NON-POL_C_0402_220NF
+C11        C_0402              3785.1mil    3881.71mil     3785.1mil    3881.71mil     3805.1mil    3881.71mil  T        180.00 CAPACITOR NON-POL_C_0402_220NF
+C18        C_0402                3559mil       3614mil       3559mil       3614mil       3579mil       3614mil  T        180.00 CAPACITOR NON-POL_C_0402_220NF
+L6         L_0603                3723mil       3902mil       3723mil       3902mil       3723mil       3882mil  T         90.00 INDUCTOR_L_0603_22UH
+TP1        TP-30C12           3727.26mil    3844.02mil    3727.26mil    3844.02mil    3727.26mil    3844.02mil  T          0.00 CON1_TP-30C12_CON1
+C2         C_0402_MOD1        3105.05mil    3919.62mil    3105.05mil    3919.62mil    3105.05mil    3937.34mil  T        270.00 CAPACITOR NON-POL_C_0402_MOD1_D
+C3         C_0402_MOD1        3087.29mil    3901.86mil    3087.29mil    3901.86mil    3105.01mil    3901.86mil  T        180.00 CAPACITOR NON-POL_C_0402_MOD1_1
+ANT1       JOHANSON_2450AT42A100_SMD    2937.43mil    3668.31mil    2937.43mil    3668.31mil    2937.43mil    3764.77mil  T        270.00 ANTENNA_JOHANSON_2450AT42A100_S
+X2         HOSONIC_2SB_250X200_SMD    3531.95mil    4009.47mil    3531.95mil    4009.47mil    3565.41mil    4035.06mil  T        180.00 CRYSTAL4/SM_HOSONIC_2SB_250X200
+X1         HOSONIC_ETDG_20X12_SMD    3416.32mil    4022.68mil    3416.32mil    4022.68mil    3445.85mil    4022.68mil  T        180.00 CRYSTAL2/SM_HOSONIC_ETDG_20X12_
+J4         7X1MM_BOT_PAD_12_TO_18_SMD     3888.2mil    3827.19mil     3888.2mil    3827.19mil     3888.2mil    3977.19mil  T         90.00 CONN_1_27MM_PITCH_PIN_12_18_7X1
+J3         11X1MM_BOT_PAD_19_TO_29_SMD       3575mil     4103.1mil       3575mil     4103.1mil       3625mil     4103.1mil  T        180.00 CONN_1_27MM_PITCH_PIN_19_29_11X
+J2         11X1MM_BOT_PAD_1_TO_11_SMD       3575mil    3551.61mil       3575mil    3551.61mil       3325mil    3551.61mil  T          0.00 CONN_1_27MM_PITCH_PIN_1_11_11X1
+J1         UFL_SMD            2986.49mil    4007.44mil    2986.49mil    4007.44mil    3045.55mil    4007.44mil  T        270.00 UFL_UFL_SMD_UFL
+U1         NCS36510              3569mil       3785mil       3569mil       3785mil    3480.42mil    3673.78mil  T         90.00 NCS36510_NCS36510_NCS36510
+S1         LAKOTA_SHIELD      3850.44mil    3575.71mil    3850.44mil    3575.71mil    3850.44mil    3575.71mil  T          0.00 CON1_LAKOTA_SHIELD_SHIELD
+

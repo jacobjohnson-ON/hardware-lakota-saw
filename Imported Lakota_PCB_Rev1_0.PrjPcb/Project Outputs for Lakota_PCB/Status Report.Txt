@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Lakota_PCB.PcbDoc]
+   Generated File[Lakota_PCB.GTL]
+   Generated File[Lakota_PCB.G1]
+   Generated File[Lakota_PCB.G2]
+   Generated File[Lakota_PCB.GBL]
+   Generated File[Lakota_PCB.GTP]
+   Generated File[Lakota_PCB.GTS]
+   Generated File[Lakota_PCB.GBS]
+   Generated File[Lakota_PCB.GBP]
+   Generated File[Lakota_PCB.GBO]
+   Generated File[Lakota_PCB.GKO]
+   Generated File[Lakota_PCB.GD1]
+   Generated File[Lakota_PCB.GG1]
+   Generated File[Lakota_PCB.RUL]
+   Generated File[Lakota_PCB.EXTREP]
+   Generated File[Lakota_PCB.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 9:29:19 AM On 3/17/2017
